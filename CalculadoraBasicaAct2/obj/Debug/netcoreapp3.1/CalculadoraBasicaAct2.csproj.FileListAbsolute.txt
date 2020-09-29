@@ -1,0 +1,13 @@
+C:\Users\Geral\source\repos\CalculadoraBasicaAct2\CalculadoraBasicaAct2\bin\Debug\netcoreapp3.1\CalculadoraBasicaAct2.exe
+C:\Users\Geral\source\repos\CalculadoraBasicaAct2\CalculadoraBasicaAct2\bin\Debug\netcoreapp3.1\CalculadoraBasicaAct2.deps.json
+C:\Users\Geral\source\repos\CalculadoraBasicaAct2\CalculadoraBasicaAct2\bin\Debug\netcoreapp3.1\CalculadoraBasicaAct2.runtimeconfig.json
+C:\Users\Geral\source\repos\CalculadoraBasicaAct2\CalculadoraBasicaAct2\bin\Debug\netcoreapp3.1\CalculadoraBasicaAct2.runtimeconfig.dev.json
+C:\Users\Geral\source\repos\CalculadoraBasicaAct2\CalculadoraBasicaAct2\bin\Debug\netcoreapp3.1\CalculadoraBasicaAct2.dll
+C:\Users\Geral\source\repos\CalculadoraBasicaAct2\CalculadoraBasicaAct2\bin\Debug\netcoreapp3.1\CalculadoraBasicaAct2.pdb
+C:\Users\Geral\source\repos\CalculadoraBasicaAct2\CalculadoraBasicaAct2\obj\Debug\netcoreapp3.1\CalculadoraBasicaAct2.csprojAssemblyReference.cache
+C:\Users\Geral\source\repos\CalculadoraBasicaAct2\CalculadoraBasicaAct2\obj\Debug\netcoreapp3.1\CalculadoraBasicaAct2.AssemblyInfoInputs.cache
+C:\Users\Geral\source\repos\CalculadoraBasicaAct2\CalculadoraBasicaAct2\obj\Debug\netcoreapp3.1\CalculadoraBasicaAct2.AssemblyInfo.cs
+C:\Users\Geral\source\repos\CalculadoraBasicaAct2\CalculadoraBasicaAct2\obj\Debug\netcoreapp3.1\CalculadoraBasicaAct2.csproj.CoreCompileInputs.cache
+C:\Users\Geral\source\repos\CalculadoraBasicaAct2\CalculadoraBasicaAct2\obj\Debug\netcoreapp3.1\CalculadoraBasicaAct2.dll
+C:\Users\Geral\source\repos\CalculadoraBasicaAct2\CalculadoraBasicaAct2\obj\Debug\netcoreapp3.1\CalculadoraBasicaAct2.pdb
+C:\Users\Geral\source\repos\CalculadoraBasicaAct2\CalculadoraBasicaAct2\obj\Debug\netcoreapp3.1\CalculadoraBasicaAct2.genruntimeconfig.cache
